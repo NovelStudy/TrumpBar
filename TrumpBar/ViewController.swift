@@ -1,10 +1,8 @@
-//
-//  ViewController.swift
-//  TrumpBar
-//
-//  Created by Michael Mattioli on 11/23/16.
-//  Copyright © 2016 Michael Mattioli. All rights reserved.
-//
+/*
+ *
+ * Written by Michael Mattioli
+ *
+ */
 
 import Cocoa
 import AppKit
@@ -129,31 +127,31 @@ extension ViewController : NSTouchBarDelegate {
             switch identifier {
             case NSTouchBarItemIdentifier.congratulationsButton:
                 itemButton.title = "Congratulations!"
-                soundFile = Bundle.main.path(forResource: "Compliments-Congratulations", ofType: "mp3")!
+                soundFile = Bundle.main.path(forResource: "Congratulations", ofType: "mp3")!
             case NSTouchBarItemIdentifier.fantasticButton:
                 itemButton.title = "Fantastic!"
-                soundFile = Bundle.main.path(forResource: "Compliments-Fantastic", ofType: "mp3")!
+                soundFile = Bundle.main.path(forResource: "Fantastic", ofType: "mp3")!
             case NSTouchBarItemIdentifier.reallyBeautifulButton:
                 itemButton.title = "You're really beautiful"
-                soundFile = Bundle.main.path(forResource: "Compliments-Really_beautiful", ofType: "mp3")!
+                soundFile = Bundle.main.path(forResource: "Really_beautiful", ofType: "mp3")!
             case NSTouchBarItemIdentifier.haveAGoodTimeButton:
                 itemButton.title = "Have a good time"
-                soundFile = Bundle.main.path(forResource: "Conversational-Have_a_good_time", ofType: "mp3")!
+                soundFile = Bundle.main.path(forResource: "Have_a_good_time", ofType: "mp3")!
             case NSTouchBarItemIdentifier.letEmTalkButton:
                 itemButton.title = "Let 'em talk"
-                soundFile = Bundle.main.path(forResource: "Conversational-Let_em_talk", ofType: "mp3")!
+                soundFile = Bundle.main.path(forResource: "Let_em_talk", ofType: "mp3")!
             case NSTouchBarItemIdentifier.yesMamButton:
                 itemButton.title = "Yes mam"
-                soundFile = Bundle.main.path(forResource: "Conversational-Yes_mam", ofType: "mp3")!
+                soundFile = Bundle.main.path(forResource: "Yes_mam", ofType: "mp3")!
             case NSTouchBarItemIdentifier.goodEveningButton:
                 itemButton.title = "Good evening"
-                soundFile = Bundle.main.path(forResource: "Greetings-Good_evening", ofType: "mp3")!
+                soundFile = Bundle.main.path(forResource: "Good_evening", ofType: "mp3")!
             case NSTouchBarItemIdentifier.howAreYouButton:
                 itemButton.title = "How are you?"
-                soundFile = Bundle.main.path(forResource: "Greetings-How_are_you", ofType: "mp3")!
+                soundFile = Bundle.main.path(forResource: "How_are_you", ofType: "mp3")!
             case NSTouchBarItemIdentifier.watchingYouButton:
                 itemButton.title = "Watching you"
-                soundFile = Bundle.main.path(forResource: "Greetings-Watching_you", ofType: "mp3")!
+                soundFile = Bundle.main.path(forResource: "Watching_you", ofType: "mp3")!
             default:
                 return nil
             }

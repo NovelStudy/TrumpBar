@@ -13,16 +13,15 @@
 		F2FBE0991DE690510099093C /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F2FBE0971DE690510099093C /* Main.storyboard */; };
 		F2FBE0A11DE690AC0099093C /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = F2FBE0A01DE690AC0099093C /* .gitignore */; };
 		F2FBE0A31DE6911F0099093C /* WindowController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F2FBE0A21DE6911F0099093C /* WindowController.swift */; };
-		F2FBE0C81DE6957E0099093C /* Compliments-Congratulations.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = F2FBE0BF1DE6957E0099093C /* Compliments-Congratulations.mp3 */; };
-		F2FBE0C91DE6957E0099093C /* Compliments-Fantastic.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = F2FBE0C01DE6957E0099093C /* Compliments-Fantastic.mp3 */; };
-		F2FBE0CA1DE6957E0099093C /* Compliments-Really_beautiful.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = F2FBE0C11DE6957E0099093C /* Compliments-Really_beautiful.mp3 */; };
-		F2FBE0CB1DE6957E0099093C /* Conversational-Have_a_good_time.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = F2FBE0C21DE6957E0099093C /* Conversational-Have_a_good_time.mp3 */; };
-		F2FBE0CC1DE6957E0099093C /* Conversational-Let_em_talk.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = F2FBE0C31DE6957E0099093C /* Conversational-Let_em_talk.mp3 */; };
-		F2FBE0CD1DE6957E0099093C /* Conversational-Yes_mam.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = F2FBE0C41DE6957E0099093C /* Conversational-Yes_mam.mp3 */; };
-		F2FBE0CE1DE6957E0099093C /* Greetings-Good_evening.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = F2FBE0C51DE6957E0099093C /* Greetings-Good_evening.mp3 */; };
-		F2FBE0CF1DE6957E0099093C /* Greetings-How_are_you.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = F2FBE0C61DE6957E0099093C /* Greetings-How_are_you.mp3 */; };
-		F2FBE0D01DE6957E0099093C /* Greetings-Watching_you.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = F2FBE0C71DE6957E0099093C /* Greetings-Watching_you.mp3 */; };
-		F2FBE0D21DE7C2E60099093C /* README.md in Sources */ = {isa = PBXBuildFile; fileRef = F2FBE0D11DE7C2E60099093C /* README.md */; };
+		F2FBE0C81DE6957E0099093C /* Congratulations.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = F2FBE0BF1DE6957E0099093C /* Congratulations.mp3 */; };
+		F2FBE0C91DE6957E0099093C /* Fantastic.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = F2FBE0C01DE6957E0099093C /* Fantastic.mp3 */; };
+		F2FBE0CA1DE6957E0099093C /* Really_beautiful.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = F2FBE0C11DE6957E0099093C /* Really_beautiful.mp3 */; };
+		F2FBE0CB1DE6957E0099093C /* Have_a_good_time.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = F2FBE0C21DE6957E0099093C /* Have_a_good_time.mp3 */; };
+		F2FBE0CC1DE6957E0099093C /* Let_em_talk.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = F2FBE0C31DE6957E0099093C /* Let_em_talk.mp3 */; };
+		F2FBE0CD1DE6957E0099093C /* Yes_mam.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = F2FBE0C41DE6957E0099093C /* Yes_mam.mp3 */; };
+		F2FBE0CE1DE6957E0099093C /* Good_evening.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = F2FBE0C51DE6957E0099093C /* Good_evening.mp3 */; };
+		F2FBE0CF1DE6957E0099093C /* How_are_you.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = F2FBE0C61DE6957E0099093C /* How_are_you.mp3 */; };
+		F2FBE0D01DE6957E0099093C /* Watching_you.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = F2FBE0C71DE6957E0099093C /* Watching_you.mp3 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -34,15 +33,15 @@
 		F2FBE09A1DE690510099093C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		F2FBE0A01DE690AC0099093C /* .gitignore */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
 		F2FBE0A21DE6911F0099093C /* WindowController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = WindowController.swift; sourceTree = "<group>"; };
-		F2FBE0BF1DE6957E0099093C /* Compliments-Congratulations.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Compliments-Congratulations.mp3"; sourceTree = "<group>"; };
-		F2FBE0C01DE6957E0099093C /* Compliments-Fantastic.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Compliments-Fantastic.mp3"; sourceTree = "<group>"; };
-		F2FBE0C11DE6957E0099093C /* Compliments-Really_beautiful.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Compliments-Really_beautiful.mp3"; sourceTree = "<group>"; };
-		F2FBE0C21DE6957E0099093C /* Conversational-Have_a_good_time.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Conversational-Have_a_good_time.mp3"; sourceTree = "<group>"; };
-		F2FBE0C31DE6957E0099093C /* Conversational-Let_em_talk.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Conversational-Let_em_talk.mp3"; sourceTree = "<group>"; };
-		F2FBE0C41DE6957E0099093C /* Conversational-Yes_mam.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Conversational-Yes_mam.mp3"; sourceTree = "<group>"; };
-		F2FBE0C51DE6957E0099093C /* Greetings-Good_evening.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Greetings-Good_evening.mp3"; sourceTree = "<group>"; };
-		F2FBE0C61DE6957E0099093C /* Greetings-How_are_you.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Greetings-How_are_you.mp3"; sourceTree = "<group>"; };
-		F2FBE0C71DE6957E0099093C /* Greetings-Watching_you.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Greetings-Watching_you.mp3"; sourceTree = "<group>"; };
+		F2FBE0BF1DE6957E0099093C /* Congratulations.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Congratulations.mp3; sourceTree = "<group>"; };
+		F2FBE0C01DE6957E0099093C /* Fantastic.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Fantastic.mp3; sourceTree = "<group>"; };
+		F2FBE0C11DE6957E0099093C /* Really_beautiful.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Really_beautiful.mp3; sourceTree = "<group>"; };
+		F2FBE0C21DE6957E0099093C /* Have_a_good_time.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Have_a_good_time.mp3; sourceTree = "<group>"; };
+		F2FBE0C31DE6957E0099093C /* Let_em_talk.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Let_em_talk.mp3; sourceTree = "<group>"; };
+		F2FBE0C41DE6957E0099093C /* Yes_mam.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Yes_mam.mp3; sourceTree = "<group>"; };
+		F2FBE0C51DE6957E0099093C /* Good_evening.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Good_evening.mp3; sourceTree = "<group>"; };
+		F2FBE0C61DE6957E0099093C /* How_are_you.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = How_are_you.mp3; sourceTree = "<group>"; };
+		F2FBE0C71DE6957E0099093C /* Watching_you.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Watching_you.mp3; sourceTree = "<group>"; };
 		F2FBE0D11DE7C2E60099093C /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -57,6 +56,36 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		F2C841ED1DE8EA9D00376C2C /* Compliments */ = {
+			isa = PBXGroup;
+			children = (
+				F2FBE0BF1DE6957E0099093C /* Congratulations.mp3 */,
+				F2FBE0C01DE6957E0099093C /* Fantastic.mp3 */,
+				F2FBE0C11DE6957E0099093C /* Really_beautiful.mp3 */,
+			);
+			name = Compliments;
+			sourceTree = "<group>";
+		};
+		F2C841EE1DE8EAA600376C2C /* Conversational */ = {
+			isa = PBXGroup;
+			children = (
+				F2FBE0C21DE6957E0099093C /* Have_a_good_time.mp3 */,
+				F2FBE0C31DE6957E0099093C /* Let_em_talk.mp3 */,
+				F2FBE0C41DE6957E0099093C /* Yes_mam.mp3 */,
+			);
+			name = Conversational;
+			sourceTree = "<group>";
+		};
+		F2C841EF1DE8EAAE00376C2C /* Greetings */ = {
+			isa = PBXGroup;
+			children = (
+				F2FBE0C51DE6957E0099093C /* Good_evening.mp3 */,
+				F2FBE0C61DE6957E0099093C /* How_are_you.mp3 */,
+				F2FBE0C71DE6957E0099093C /* Watching_you.mp3 */,
+			);
+			name = Greetings;
+			sourceTree = "<group>";
+		};
 		F2FBE0851DE690510099093C = {
 			isa = PBXGroup;
 			children = (
@@ -92,15 +121,9 @@
 		F2FBE0BE1DE6957E0099093C /* Sounds */ = {
 			isa = PBXGroup;
 			children = (
-				F2FBE0BF1DE6957E0099093C /* Compliments-Congratulations.mp3 */,
-				F2FBE0C01DE6957E0099093C /* Compliments-Fantastic.mp3 */,
-				F2FBE0C11DE6957E0099093C /* Compliments-Really_beautiful.mp3 */,
-				F2FBE0C21DE6957E0099093C /* Conversational-Have_a_good_time.mp3 */,
-				F2FBE0C31DE6957E0099093C /* Conversational-Let_em_talk.mp3 */,
-				F2FBE0C41DE6957E0099093C /* Conversational-Yes_mam.mp3 */,
-				F2FBE0C51DE6957E0099093C /* Greetings-Good_evening.mp3 */,
-				F2FBE0C61DE6957E0099093C /* Greetings-How_are_you.mp3 */,
-				F2FBE0C71DE6957E0099093C /* Greetings-Watching_you.mp3 */,
+				F2C841EF1DE8EAAE00376C2C /* Greetings */,
+				F2C841EE1DE8EAA600376C2C /* Conversational */,
+				F2C841ED1DE8EA9D00376C2C /* Compliments */,
 			);
 			path = Sounds;
 			sourceTree = "<group>";
@@ -164,17 +187,17 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				F2FBE0C91DE6957E0099093C /* Compliments-Fantastic.mp3 in Resources */,
-				F2FBE0CF1DE6957E0099093C /* Greetings-How_are_you.mp3 in Resources */,
-				F2FBE0D01DE6957E0099093C /* Greetings-Watching_you.mp3 in Resources */,
+				F2FBE0C91DE6957E0099093C /* Fantastic.mp3 in Resources */,
+				F2FBE0CF1DE6957E0099093C /* How_are_you.mp3 in Resources */,
+				F2FBE0D01DE6957E0099093C /* Watching_you.mp3 in Resources */,
 				F2FBE0961DE690510099093C /* Assets.xcassets in Resources */,
-				F2FBE0CC1DE6957E0099093C /* Conversational-Let_em_talk.mp3 in Resources */,
-				F2FBE0CA1DE6957E0099093C /* Compliments-Really_beautiful.mp3 in Resources */,
+				F2FBE0CC1DE6957E0099093C /* Let_em_talk.mp3 in Resources */,
+				F2FBE0CA1DE6957E0099093C /* Really_beautiful.mp3 in Resources */,
 				F2FBE0A11DE690AC0099093C /* .gitignore in Resources */,
-				F2FBE0CB1DE6957E0099093C /* Conversational-Have_a_good_time.mp3 in Resources */,
-				F2FBE0C81DE6957E0099093C /* Compliments-Congratulations.mp3 in Resources */,
-				F2FBE0CE1DE6957E0099093C /* Greetings-Good_evening.mp3 in Resources */,
-				F2FBE0CD1DE6957E0099093C /* Conversational-Yes_mam.mp3 in Resources */,
+				F2FBE0CB1DE6957E0099093C /* Have_a_good_time.mp3 in Resources */,
+				F2FBE0C81DE6957E0099093C /* Congratulations.mp3 in Resources */,
+				F2FBE0CE1DE6957E0099093C /* Good_evening.mp3 in Resources */,
+				F2FBE0CD1DE6957E0099093C /* Yes_mam.mp3 in Resources */,
 				F2FBE0991DE690510099093C /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -188,7 +211,6 @@
 			files = (
 				F2FBE0941DE690510099093C /* ViewController.swift in Sources */,
 				F2FBE0A31DE6911F0099093C /* WindowController.swift in Sources */,
-				F2FBE0D21DE7C2E60099093C /* README.md in Sources */,
 				F2FBE0921DE690510099093C /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -342,6 +364,7 @@
 				F2FBE09F1DE690510099093C /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

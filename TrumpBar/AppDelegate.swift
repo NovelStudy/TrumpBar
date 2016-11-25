@@ -1,10 +1,8 @@
-//
-//  AppDelegate.swift
-//  TrumpBar
-//
-//  Created by Michael Mattioli on 11/23/16.
-//  Copyright © 2016 Michael Mattioli. All rights reserved.
-//
+/*
+ *
+ * Written by Michael Mattioli
+ *
+ */
 
 import Cocoa
 
